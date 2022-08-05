@@ -5,7 +5,7 @@ editor: visual
 ---
 
 ```{r}
-octo_x <- (1)
+octo_x <- (1, 0, )
 octo_y <- (1)
 
 ggplot()
